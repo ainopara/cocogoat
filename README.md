@@ -79,3 +79,5 @@
 有关打包和更新的相关说明，请参见 [builds](https://github.com/YuehaiTeam/cocogoat/tree/main/build) 文件夹的README。
  - 本地运行: `yarn electron:serve`
  - 本地打包: `yarn electron:build`
+
+Test
